@@ -72,11 +72,6 @@ def game():
                 game_on = False
 game()
 
-# print (f"Compare A: {acc_a2}\n")
-# print("VS\n")
-# print (f"Against: {acc_b}\n")
-# print(f"You're right! Current score: {score}\n")       
-# print(f"Sorry, that's wrong. Final score: {score}")
         
             
 
